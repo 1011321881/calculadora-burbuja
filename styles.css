@@ -109,3 +109,9 @@ button:active {
   50% { transform: scale(1.2); color: #0d47a1; }
   100% { transform: scale(1); }
 }
+
+@keyframes popResult {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); color: #0d47a1; }
+  100% { transform: scale(1); }
+}
